@@ -66,6 +66,6 @@ DeepFace Library: DeepFace GitHub
 Pre-trained VGG-Face Model: VGG-Face Weights
 Kaggle Dataset: Celebrity Face Recognition Dataset
 
-## License
+## Author: Jean Agnus
 
-- This project is licensed under the MIT License. You are free to use, copy, modify, and distribute this software as long as the original copyright notice and this license are included in any distribution.
+Last Updated: March 2025
